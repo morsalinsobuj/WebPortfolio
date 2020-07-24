@@ -50,3 +50,28 @@ section{
     color: orange;
     padding-left: 95px;
 }
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 70%;
+    background-color: white;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, maroon,purple);
+    border-image-slice: 1;
+}
+#full-stack2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 16px;
+}
